@@ -253,6 +253,8 @@ footer a {
     background-color: #1a1a1a;
     float: bottom;
     color: #ddd;
+    display: inline-block;
+    width: 100%;
 }
 .sub-footer p {
     margin: auto;
